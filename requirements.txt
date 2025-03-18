@@ -2,4 +2,3 @@ pandas
 plotly
 streamlit
 geopy
-unicodedata
